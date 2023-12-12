@@ -32,8 +32,6 @@ Olá! Meu nome é Michael, sou estudante de Engenharia Elétrica pelo IFBA. Atua
 • Google Cloud Platform (GCP)<br>
 • Git & Version Control<br>
 
-<br>
-
 ### Soft Skills:
 • Comunicativo<br>
 • Pensamento crítico<br>
