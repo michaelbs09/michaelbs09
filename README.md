@@ -30,6 +30,7 @@ Olá! Meu nome é Michael, sou estudante de Engenharia Elétrica pelo IFBA. Atua
 • Excel<br>
 • C++<br>
 • Google Cloud Platform (GCP)<br>
+• Linux
 • Git & Version Control<br>
 
 ### Soft Skills:
