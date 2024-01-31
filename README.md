@@ -62,6 +62,6 @@ Olá! Meu nome é Michael, sou estudante de Engenharia Elétrica pelo IFBA. Atua
 • Espanhol básico
 
 ## Portifólio:
-Acompanhe meu Medium e LinkedIn.
+Acompanhe meu LinkedIn: https://www.linkedin.com/in/michaelbotelho9
 
 <br>
