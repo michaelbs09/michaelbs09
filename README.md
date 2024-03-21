@@ -5,7 +5,7 @@
 ## Minha experiência:
 🌐 Tenho experiência em trabalhar com Python (suas bibliotecas para Ciência de Dados e Machine Learning), SQL e C++. <br>
 🔧 Ferramentas de desenvolvimento: Jupyter Notebook, Visual Studio e Google Colab. <br>
-👨‍💻 Atuei como estágiario de Data Science, responsável pela coleta e análise de dados, desenvolvimento de modelos ML e deploy dos mesmos em ambiente de
+👨‍💻 Atuei como Data Science, responsável pela coleta e análise de dados, desenvolvimento de modelos ML e deploy dos mesmos em ambiente de
 produção. <br>
 🔍 Trabalhei como bolsista responsável pelo desenvolvimento de um sistema de Percepção Robótica focado na detecção e identificação de
 objetos 3D. <br>
