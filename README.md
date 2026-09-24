@@ -1,67 +1,139 @@
-# Olá! Bem-vindo(a) ao meu repositório de Data Science/Machine Learning(ML)!
+# Hi, I'm Michael Botelho!
 
-<br>
+### Senior AI/ML Engineer | AI Systems & Generative AI
 
-## Minha experiência:
-🌐 Tenho experiência em trabalhar com Python (suas bibliotecas para Ciência de Dados e Machine Learning), SQL e C++. <br>
-🔧 Ferramentas de desenvolvimento: Jupyter Notebook, Visual Studio e Google Colab. <br>
-👨‍💻 Atuei como Data Science, responsável pela coleta e análise de dados, desenvolvimento de modelos ML e deploy dos mesmos em ambiente de
-produção. <br>
-🔍 Trabalhei como bolsista responsável pelo desenvolvimento de um sistema de Percepção Robótica focado na detecção e identificação de
-objetos 3D. <br>
-📚 Estou cursando Engenharia Elétrica no IFBA (Instituto Federal de Educação, Ciência e Tecnologia da Bahia). <br>
-📧 Caso queira entrar em contato, envie um e-mail para michaelbotelhocontact@gmail.com. <br>
+I design and build end-to-end AI systems, combining **Generative AI, Machine Learning and software engineering** to solve real business problems.
 
-<br>
+My current focus is on **AI Systems, LLM applications, RAG, AI agents, agentic workflows, evaluation and production-oriented architectures**.
 
-<br>
+I work across the full lifecycle of AI products — from problem definition and architecture to implementation, evaluation, deployment and continuous evolution.
 
-## Sobre mim:
+---
 
-Olá! Meu nome é Michael, sou estudante de Engenharia Elétrica pelo IFBA. Atualmente, sou membro do Grupo de Inovação e Pesquisa em Automação e Robótica (GIPAR) do IFBA, onde atuo na pesquisa e desenvolvimento de Robótica, Automação, Indústria 4.0, Inteligência Artificial e Sistemas Embarcados. Além disso, participei de competições de robótica, sendo uma delas a ROSI CHALLENGE, na qual, junto com minha equipe, conquistamos a 6º colocação na Competição de Robô para Serviços de Inspeção, promovida pela Mineradora VALE e SBAI.
-<br>
+## About me
 
-### Hard Skills:
-• Python (scikit-learn, opencv, pytorch, pandas, numpy, matplotlib, seaborn, flask)<br>
-• Docker<br>
-• SQL<br>
-• Machine Learning (Modelos supervisionados, não supervisionados, deep learning e CNNs)<br>
-• Estatística descritiva e inferencial aplicada à análise de dados<br>
-• Excel<br>
-• C++<br>
-• Google Cloud Platform (GCP)<br>
-• Linux<br>
-• Git & Version Control<br>
+I'm currently working as an **AI/ML Specialist at Grupo Iter**, leading and developing AI initiatives that combine:
 
-### Soft Skills:
-• Comunicativo<br>
-• Pensamento crítico<br>
-• Trabalho em equipe<br>
-• Proatividade<br>
-• Senso de liderança<br>
-• Aprendo muito rápido<br>
-• Autodidata<br>
+- LLMs and Generative AI
+- RAG and semantic search
+- AI Agents and tool calling
+- FastAPI and backend integrations
+- LLM evaluation and observability
+- AI architecture and production readiness
+- Collaboration across Product, Data and Infrastructure
 
-<br>
+My background also includes production Machine Learning, Computer Vision, NLP, Speech AI and applied AI research.
 
-<br>
+---
 
-## Projetos em que atuei:
-• Desenvolvimento de chatbots e assistentes virtuais com integração da API do Whatsapp Business (Meta).<br>
-• Construção de um classificador de compras no varejo utilizando o algoritmo CatBoostClassifier para automatização de um sistema de validação de compras.<br>
-• Construção de um sistema end-to-end de Machine Learning para automatização de vending machines da empresa. Onde foram usados algoritmos para detecção de objetos, detecção de anomalias e segmentação em imagens.<br>
-• Construção de relatórios automatizados para apresentação semanal dos indicadores do sistema de visão computacional da empresa.<br>
+## Current focus
 
-<br>
+**AI Systems & Generative AI**
 
-<br>
+I am particularly interested in designing AI systems where probabilistic models operate inside clear software boundaries.
 
-## Idiomas:
-• Fluente em português<br>
-• Inglês intermédiario<br>
-• Espanhol básico
+Areas I currently work with:
 
-## Portifólio:
-Acompanhe meu LinkedIn: https://www.linkedin.com/in/michaelbotelho9
+`LLMs` · `RAG` · `Embeddings` · `Semantic Search` · `LangGraph` · `LangChain`  
+`AI Agents` · `Agentic Workflows` · `LLM Evals` · `Observability`  
+`Python` · `FastAPI` · `Pydantic` · `SQL` · `Docker`
 
-<br>
+---
+
+## Engineering & AI stack
+
+### AI / Generative AI
+`LLMs` · `RAG` · `Embeddings` · `Vector Databases` · `Semantic Search`  
+`Prompt Engineering` · `LangChain` · `LangGraph` · `AI Agents`
+
+### Machine Learning
+`PyTorch` · `OpenCV` · `CatBoost` · `Deep Learning` · `NLP` · `Speech AI`
+
+### Backend & Engineering
+`Python` · `FastAPI` · `SQL` · `Docker` · `REST APIs`  
+`Data Pipelines` · `Inference Pipelines` · `CI/CD`
+
+### Cloud & Production
+`AWS` · `Amazon Bedrock` · `GCP` · `Azure` · `Databricks`  
+`MLOps` · `LLMOps` · `Model Evaluation` · `Observability`
+
+---
+
+## Experience highlights
+
+### Grupo Iter — AI/ML Specialist
+**AI Systems & Generative AI**
+
+Building and architecting AI initiatives from problem definition to production readiness, including LLM agents, RAG, tool integrations and evaluation strategies.
+
+Current work includes the development of an operational intelligence platform combining data, predictions, risks and recommendations to support business decisions.
+
+---
+
+### LBCA — Senior AI/ML Engineer / Tech Lead
+
+Designed and deployed production AI systems for legal automation.
+
+Selected outcomes:
+
+- approximately **85% reduction in costs**
+- approximately **80% reduction in operational time**
+- RAG and prompt engineering with LLMs and SLMs
+- AI agents for classification and named entity extraction
+- inference and data pipelines on AWS using Lambda, S3 and DynamoDB
+
+---
+
+### Call Center AWT — Senior AI/ML Engineer
+
+Developed NLP and Speech AI solutions for call-center workflows, including:
+
+- automatic transcription
+- summarization with LLMs
+- Whisper and AWS Transcribe integrations
+- call classification
+- fraud and malicious-contact detection
+
+---
+
+### U-Get — Computer Vision Engineer
+
+Built end-to-end Machine Learning and Computer Vision systems for retail operations.
+
+Highlights:
+
+- ML system that reduced operational time by approximately **63%**
+- object detection and anomaly detection
+- image-quality pipelines
+- CatBoost classification
+- deployment and monitoring on GCP
+
+---
+
+### GIPAR / IFBA — AI/ML Researcher
+
+Worked on applied AI research for robotics and automation using:
+
+`ROS` · `Gazebo` · `OpenCV` · `Computer Vision` · `3D Datasets`
+
+---
+
+## Education
+
+**Electrical Engineering — Instituto Federal da Bahia (IFBA)**
+
+Background in automation, control, electronics and intelligent systems.
+
+Additional training includes:
+
+- AI Engineering
+- Machine Learning
+- Data Science
+- Deep Learning
+- Generative AI
+
+---
+
+## Let's connect
+
+[LinkedIn](https://www.linkedin.com/in/michaelbotelho9/)
